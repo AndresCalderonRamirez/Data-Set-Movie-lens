@@ -1,4 +1,4 @@
-movie id,movie title,release date,unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western
+item_id,title,release_date,unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western
 1,Toy Story (1995),1995-01-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,GoldenEye (1995),1995-01-01,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 3,Four Rooms (1995),1995-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
